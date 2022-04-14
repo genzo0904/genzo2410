@@ -1,2 +1,2 @@
-# genzo2410
+# circleci-project
 Config files for my GitHub profile.
